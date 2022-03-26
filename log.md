@@ -8,6 +8,14 @@
 **Thoughts:** I prepared myself mentaky to it, so let's start this journey.
 
 **Link to work:** [codewars challenges](https://winchy82dev.notion.site/CodeWar-Challenges-571759acf3a84ecfa5f929f5b98c977a)
+
+### Day 0: March 24 , 2022
+#####
+**Today's Progress**: Part 1 of the Shay Howe's Style Conference Website 
+
+**Thoughts:** lot of css that i didn't understand, clearfix..
+
+**Link to work:** [Shay Howe Website](https://github.com/winchy82dev/-100devs-ShayHoweConfWebSiteByWinchy)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
