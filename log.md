@@ -11,9 +11,18 @@
 
 ### Day 1: March 25 , 2022
 #####
-**Today's Progress**: Part 1 of the Shay Howe's Style Conference Website 
+**Today's Progress**: Part 1/3 of the Shay Howe's Style Conference Website 
 
 **Thoughts:** lot of css that i didn't understand, clearfix..
+
+**Link to work:** [Shay Howe Website](https://github.com/winchy82dev/-100devs-ShayHoweConfWebSiteByWinchy)
+
+### Day 2: March 26 , 2022
+#####
+**Today's Progress**: Part 2/3 & 3/3 of the Shay Howe's Style Conference Website, 
+and did some 8 kyu CodeWars Challenges 
+    
+**Thoughts:** reviewd forms and tables, arrays methods in  js
 
 **Link to work:** [Shay Howe Website](https://github.com/winchy82dev/-100devs-ShayHoweConfWebSiteByWinchy)
 <!--
