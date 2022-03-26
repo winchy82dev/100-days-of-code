@@ -9,7 +9,7 @@
 
 **Link to work:** [codewars challenges](https://winchy82dev.notion.site/CodeWar-Challenges-571759acf3a84ecfa5f929f5b98c977a)
 
-### Day 0: March 24 , 2022
+### Day 1: March 25 , 2022
 #####
 **Today's Progress**: Part 1 of the Shay Howe's Style Conference Website 
 
