@@ -25,6 +25,15 @@ and did some 8 kyu CodeWars Challenges
 **Thoughts:** reviewd forms and tables, arrays methods in  js
 
 **Link to work:** [Shay Howe Website](https://github.com/winchy82dev/-100devs-ShayHoweConfWebSiteByWinchy)
+
+### Day 3: March 28 , 2022
+#####
+**Today's Progress**: Some 8 kyu CodeWars Challenges, practicing colemak typing, 
+gathering ressources about web dev path
+    
+**Thoughts:** didn't reviewed my anki deck
+
+**Link to work:** [CodeWar Challenges](https://winchy82dev.notion.site/CodeWar-Challenges-571759acf3a84ecfa5f929f5b98c977a) you can filter by date
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
