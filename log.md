@@ -35,7 +35,7 @@ gathering ressources about web dev path
 
 **Link to work:** [CodeWar Challenges](https://winchy82dev.notion.site/CodeWar-Challenges-571759acf3a84ecfa5f929f5b98c977a) you can filter by date
 
-### Day 4 - 0v2: April 8 , 2022
+### Day 4 - 0v2: April 9 , 2022
 #####
 **Today's Progress**: I practice colemak typing (reached 25 on average speed and 80% accuracy), i solved 5 codewars js callenges, and red about Objects in the thejsway and eloquentjavascript, i also looked up for css ressourses to learn more about it.
 Solved the ssh issue to push my work to Github
