@@ -44,7 +44,13 @@ Solved the ssh issue to push my work to Github
 
 **Link to work:** [Day4 Challenges](https://github.com/winchy82dev/coding-time/blob/6b10a08e17384f6f66b7ada976b6637e447b5de0/8kyu/index.html) 
 
- 
+### Day 1: April 10 , 2022
+#####
+**Today's Progress**: I practice colemak typing (reached 35 on average speed and 80% accuracy), i solved 10 codewars js callenges
+    
+**Thoughts:** Should start practicing css on real projects
+
+**Link to work:** [Day1 Challenges](https://github.com/winchy82dev/coding-time/blob/6b10a08e17384f6f66b7ada976b6637e447b5de0/8kyu/index.html) 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
