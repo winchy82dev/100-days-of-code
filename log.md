@@ -65,7 +65,20 @@ Solved the ssh issue to push my work to Github
 **Link to work:** 
 	[Day2 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day002/dayv2-002.html) 
 	[Project 1](https://winchy82dev.github.io/ProjectsGA/Project%201-BasicHTML/index.html) 
-	[Project 2](https://winchy82dev.github.io/ProjectsGA/Project%202-Responsive%20Blog%20Theme/index.html) 
+	[Project 2](https://winchy82dev.github.io/ProjectsGA/Project%202-Responsive%20Blog%20Theme/index.html)
+
+### Day 3: April 12 , 2022
+#####
+**Today's Progress**:
+	I practice colemak typing
+ 	I solved 2 codewars js callenges
+ 	Didn't study anything
+    
+**Thoughts:** Should study material more often.
+
+**Link to work:** 
+	[Day3 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day003/day003.html) 
+	
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
