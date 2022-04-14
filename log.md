@@ -78,7 +78,18 @@ Solved the ssh issue to push my work to Github
 
 **Link to work:** 
 	[Day3 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day003/day003.html) 
-	
+
+### Day 4: April 13 , 2022
+#####
+**Today's Progress**:
+	I practice colemak typing
+ 	I solved 5 codewars js callenges
+ 	put #100DaysOfCode's progress on the web page that i create 2 days ago
+    
+**Thoughts:** need backend to my little blog
+
+**Link to work:** 
+	[Day3 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day004/day004.html) 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
