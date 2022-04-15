@@ -89,7 +89,19 @@ Solved the ssh issue to push my work to Github
 **Thoughts:** need backend to my little blog
 
 **Link to work:** 
-	[Day3 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day004/day004.html) 
+	[Day4 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day004/day004.html) 
+
+### Day 5: April 14 , 2022
+#####
+**Today's Progress**:
+	I practice colemak typing
+ 	No codewars Today
+ 	I reviewed ch4 of EloquentJS about object
+    
+**Thoughts:** Objects are Awsome!
+
+**Link to work:** 
+	[Day5 Learning about Object](https://replit.com/@winchy/ch4-Array-and-Objects-review-ejs?v=1#script.js) 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
