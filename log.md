@@ -102,6 +102,20 @@ Solved the ssh issue to push my work to Github
 
 **Link to work:** 
 	[Day5 Learning about Object](https://replit.com/@winchy/ch4-Array-and-Objects-review-ejs?v=1#script.js) 
+
+### Day 6: April 15 , 2022
+#####
+**Today's Progress**:
+	I practice colemak typing
+ 	8 kyu Katas codewars challenges
+ 	Finished the list of #100devs courses for #catchupcrew on Notion
+    Create a template for codewars on Notion
+
+**Thoughts:** Notion is Awsome!
+
+**Link to work:** 
+	[Day6 CodeWars Challenges](https://winchy82dev.github.io/coding-time/8kyu/day006/day006.html) 
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
