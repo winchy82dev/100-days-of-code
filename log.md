@@ -116,6 +116,19 @@ Solved the ssh issue to push my work to Github
 **Link to work:** 
 	[Day6 CodeWars Challenges](https://winchy82dev.github.io/coding-time/8kyu/day006/day006.html) 
 
+
+### Day 7: April 16 , 2022
+#####
+**Today's Progress**:
+	I practice colemak typing
+ 	Some 8 kyu Katas codewars challenges
+	Practice drawing and animation with css
+ 	
+
+**Thoughts:** begin to fall in love with css
+
+**Link to work:** 
+	[]() 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
