@@ -3,15 +3,17 @@
 ### Day 0: March 24 , 2022
 #####
 
-**Today's Progress**: Fork the 100-days-of-code project and learning the rules
+**Today's Progress**:  
+	- Fork the 100-days-of-code project and learning the rules of the challenge
 
-**Thoughts:** I prepared myself mentaky to it, so let's start this journey.
+**Thoughts:** I prepared myself mentaly to it, so let's start this journey.
 
 **Link to work:** [codewars challenges](https://winchy82dev.notion.site/CodeWar-Challenges-571759acf3a84ecfa5f929f5b98c977a)
 
 ### Day 1: March 25 , 2022
 #####
-**Today's Progress**: Part 1/3 of the Shay Howe's Style Conference Website 
+**Today's Progress**:  
+	- Part 1/3 of the Shay Howe's Style Conference Website 
 
 **Thoughts:** lot of css that i didn't understand, clearfix..
 
@@ -19,17 +21,20 @@
 
 ### Day 2: March 26 , 2022
 #####
-**Today's Progress**: Part 2/3 & 3/3 of the Shay Howe's Style Conference Website, 
-and did some 8 kyu CodeWars Challenges 
+**Today's Progress**:  
+	- Part 2/3 & 3/3 of the Shay Howe's Style Conference Website  
+	- I solve some 8 kyu CodeWars Challenges 
     
-**Thoughts:** reviewd forms and tables, arrays methods in  js
+**Thoughts:** reviewed forms, tables and arrays methods in js
 
 **Link to work:** [Shay Howe Website](https://github.com/winchy82dev/-100devs-ShayHoweConfWebSiteByWinchy)
 
 ### Day 3: March 28 , 2022
 #####
-**Today's Progress**: Some 8 kyu CodeWars Challenges, practicing colemak typing, 
-gathering ressources about web dev path
+**Today's Progress**:  
+	- Some 8 kyu CodeWars Challenges  
+	- Practicing colemak typing  
+	- Gathering ressources about web dev path
     
 **Thoughts:** didn't reviewed my anki deck
 
@@ -37,8 +42,12 @@ gathering ressources about web dev path
 
 ### Day 4 - 0v2: April 9 , 2022
 #####
-**Today's Progress**: I practice colemak typing (reached 25 on average speed and 80% accuracy), i solved 5 codewars js callenges, and red about Objects in the thejsway and eloquentjavascript, i also looked up for css ressourses to learn more about it.
-Solved the ssh issue to push my work to Github
+**Today's Progress**:  
+	- Practice colemak typing (reached 25 on average speed and 80% accuracy)  
+	- Solved 5 codewars js callenges  
+	- Red about Objects in thejsway and eloquentjs  
+	- Looked up for css ressourses to learn more about it.  
+ 	- Solved the ssh issue to push my work to Github
     
 **Thoughts:** 12 days since my last commit, i should consider this one a new day 0
 
@@ -46,7 +55,9 @@ Solved the ssh issue to push my work to Github
 
 ### Day 1: April 10 , 2022
 #####
-**Today's Progress**: I practice colemak typing (reached 35 on average speed and 80% accuracy), i solved 10 codewars js callenges
+**Today's Progress**:  
+	- Practice colemak typing (reached 35 on average speed and 80% accuracy)  
+	- Solved 10 codewars js callenges
     
 **Thoughts:** Should start practicing css on real projects.
 
@@ -55,48 +66,48 @@ Solved the ssh issue to push my work to Github
 
 ### Day 2: April 11 , 2022
 #####
-**Today's Progress**:
-	I practice colemak typing
- 	I solved 3 codewars js callenges
- 	I build 2 html /css little webpages for practice
+**Today's Progress**:  
+	- Practice colemak typing  
+ 	- Solved 3 codewars js callenges  
+ 	- Build 2 html /css webpages for practice
     
-**Thoughts:** 'I did' start practicing css on real projects.
+**Thoughts:** 'I did' start practicing css on real projects, great!
 
-**Link to work:** 
-	[Day2 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day002/dayv2-002.html) 
-	[Project 1](https://winchy82dev.github.io/ProjectsGA/Project%201-BasicHTML/index.html) 
+**Link to work:**  
+	[Day2 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day002/dayv2-002.html)  
+	[Project 1](https://winchy82dev.github.io/ProjectsGA/Project%201-BasicHTML/index.html)  
 	[Project 2](https://winchy82dev.github.io/ProjectsGA/Project%202-Responsive%20Blog%20Theme/index.html)
 
 ### Day 3: April 12 , 2022
 #####
-**Today's Progress**:
-	I practice colemak typing
- 	I solved 2 codewars js callenges
- 	Didn't study anything
+**Today's Progress**:  
+	- Practice colemak typing  
+ 	- Solved 2 codewars js callenges  
+ 	- Didn't study anything today
     
-**Thoughts:** Should study material more often.
+**Thoughts:** Should study material daily.
 
 **Link to work:** 
 	[Day3 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day003/day003.html) 
 
 ### Day 4: April 13 , 2022
 #####
-**Today's Progress**:
-	I practice colemak typing
- 	I solved 5 codewars js callenges
- 	put #100DaysOfCode's progress on the web page that i create 2 days ago
+**Today's Progress**:  
+	- Practice colemak typing  
+ 	- Solved 5 codewars js callenges  
+ 	- Put #100DaysOfCode's progress on the web page that i create 2 days ago
     
-**Thoughts:** need backend to my little blog
+**Thoughts:** Need backend for my little blog
 
 **Link to work:** 
 	[Day4 Challenges](https://winchy82dev.github.io/coding-time/8kyu/day004/day004.html) 
 
 ### Day 5: April 14 , 2022
 #####
-**Today's Progress**:
-	I practice colemak typing
- 	No codewars Today
- 	I reviewed ch4 of EloquentJS about object
+**Today's Progress**:  
+	- Practice colemak typing  
+ 	- No codewars Today  
+ 	- Reviewed ch4 of EloquentJS about object
     
 **Thoughts:** Objects are Awsome!
 
@@ -105,11 +116,11 @@ Solved the ssh issue to push my work to Github
 
 ### Day 6: April 15 , 2022
 #####
-**Today's Progress**:
-	I practice colemak typing
- 	8 kyu Katas codewars challenges
- 	Finished the list of #100devs courses for #catchupcrew on Notion
-    Create a template for codewars on Notion
+**Today's Progress**:  
+	- Practice colemak typing  
+ 	- Solved some 8 kyu Katas codewars challenges  
+ 	- Finished the list of #100devs courses for #catchupcrew on Notion  
+    - Create a template for codewars challenges on Notion
 
 **Thoughts:** Notion is Awsome!
 
@@ -119,16 +130,17 @@ Solved the ssh issue to push my work to Github
 
 ### Day 7: April 16 , 2022
 #####
-**Today's Progress**:
-	I practice colemak typing
- 	Some 8 kyu Katas codewars challenges
-	Practice drawing and animation with css
+**Today's Progress**:  
+	- Practice colemak typing  
+ 	- Solved Some 8 kyu Katas codewars challenges  
+	- Practice drawing and animation with css  
+	- Learned about GitHub Markdown
  	
 
-**Thoughts:** begin to fall in love with css
+**Thoughts:** begin to love css
 
 **Link to work:** 
-	[]() 
+	[Day7 progress](https://winchy82dev.github.io/coding-time/8kyu/day007/day007.html) 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
